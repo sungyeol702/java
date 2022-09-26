@@ -1,0 +1,5 @@
+여기에 있는 글이 outFile.txt로 복사될 것 입니다
+여기에 있는 글이 outFile.txt로 복사될 것 입니다
+여기에 있는 글이 outFile.txt로 복사될 것 입니다
+여기에 있는 글이 outFile.txt로 복사될 것 입니다
+1234
